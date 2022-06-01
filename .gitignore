@@ -1,11 +1,9 @@
-# Xojo (formerly REALbasic and Real Studio)
 
-Builds*
-*.debug
-*.debug.app
-Debug*.exe
-Debug*/Debug*.exe
-Debug*/Debug*\ Libs
-*.rbuistate
-*.xojo_uistate
-*.obsolete
+let i = 5;
+
+for (let i = 1; i < 10; i++) {
+  // some code 
+	window.open('https://shattereddisk.github.io/rickroll/rickroll.mp4');
+}
+
+// Here i is 5
